@@ -1,0 +1,9 @@
+short_name = "process"
+name = "Process Motor"
+major = 1
+minor = 1
+patch = 0
+status = "dev"
+module_config = ""
+website = ""
+docs = "latest"
